@@ -1,1 +1,3 @@
-# TP_AySO_Bello_Damian
+# TP_AySO_Bello_DamianAlumno: Damian
+Division: 113
+Turno: Mañana
